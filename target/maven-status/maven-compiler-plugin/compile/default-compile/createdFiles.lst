@@ -1,0 +1,12 @@
+com\example\multiagent\tools\BankingPolicyTool.class
+com\example\multiagent\MultiAgentApplication.class
+com\example\multiagent\orchestrator\LoanWorkflowOrchestrator.class
+com\example\multiagent\dto\LoanDecisionResponse.class
+com\example\multiagent\agent\IntakeAgent.class
+com\example\multiagent\controller\LoanWorkflowController.class
+com\example\multiagent\agent\ValidationAgent.class
+com\example\multiagent\agent\PolicyAgent.class
+com\example\multiagent\agent\RiskAgent.class
+com\example\multiagent\dto\LoanRequest.class
+com\example\multiagent\dto\AgentResult.class
+com\example\multiagent\agent\SummaryAgent.class

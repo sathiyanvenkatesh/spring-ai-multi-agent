@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: spring-ai-multi-agent-demo
+
+  ai:
+    model:
+      chat: ollama
+    ollama:
+      base-url: http://localhost:11434
+      chat:
+        options:
+          model: llama3.1
+          temperature: 0.2
+
+server:
+  port: 8080
